@@ -1,0 +1,17 @@
+body{
+	
+	width: 700px;
+	margin: 0 auto;
+	background-color: #E0F8F7;
+}
+img{
+	width: 700px;
+	height: 300px;
+}
+#sec{
+	color: blue;
+}
+ol{
+	font-family: Arial;
+	font-size: 20px
+}
